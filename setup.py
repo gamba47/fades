@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.4
-# coding: utf-8
+# -*- coding: utf-8 -*-
 # Copyright 2014, 2015 Facundo Batista, Nicolás Demarchi
 #
 # This program is free software: you can redistribute it and/or modify it
