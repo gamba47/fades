@@ -1,9 +1,20 @@
-fades
-=====
+.. fades documentation master file, created by
+   sphinx-quickstart on Sat Jun  6 12:43:08 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to fades's documentation!
+=================================
 
 fades, a FAst DEpendencies for Scripts, is a system that automatically
 handles the virtualenvs in the simple cases normally found when
 writing scripts or simple programs.
+
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
 
 
 What does it do?
